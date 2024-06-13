@@ -6,7 +6,7 @@
   <Header>### uVision Project, (C) Keil Software</Header>
 
   <PrjGuiSettings>
-    <LastAddFilePath>E:\STM32_F103\OLED__JTU\System</LastAddFilePath>
+    <LastAddFilePath>.\System</LastAddFilePath>
   </PrjGuiSettings>
 
   <ViewPool/>
