@@ -1,0 +1,9 @@
+System\sys.c,
+System\sys.h,
+Hardware\bmp.h,
+Hardware\oled.c,
+Hardware\oled.h,
+Hardware\oledfont.h,
+Hardware\spi.c,
+Hardware\spi.h 
+TO output.elf NOPRINT
